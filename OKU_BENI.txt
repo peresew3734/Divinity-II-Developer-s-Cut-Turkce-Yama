@@ -1,0 +1,10 @@
+﻿Divinity II Developer's Cut - Turkce Yama
+
+KURULUM
+ZIP'in icindekileri divinity2_dev_cut klasorune cikarin.
+TURKCE_YAMA_KUR.cmd dosyasina cift tiklayin; kurulumun bitmesini bekleyin.
+
+GERI ALMA
+Oyun klasorundeki TurkceYama_Yedek_tarih klasorunde eski arsivler tutulur.
+Oyunu kapatip bu klasordeki GERI_YUKLE.cmd dosyasini calistirin.
+
